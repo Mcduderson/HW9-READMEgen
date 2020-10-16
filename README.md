@@ -32,3 +32,5 @@
   <a href="https://github.com/Mcduderson">GitHub Profile</a>
   <br>
   For questions I can be reached at e.payne000@gmail.com
+  <br>
+  <a href="https://drive.google.com/file/d/1mS7oN-IIKpH41q28y3ORfasTTzEIHixD/view?usp=sharing">Link to tutorial video</a>
