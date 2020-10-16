@@ -1,9 +1,10 @@
-// array of questions for user
+// setting up requires
 const inquirer = require("inquirer")
 const fs = require("fs")
 const path = require("path")
 const generate = require("./utils/generateMarkdown")
 
+// array of questions for user
 const questions = [
     {
         type:"input",
